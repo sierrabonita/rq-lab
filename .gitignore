@@ -16,6 +16,9 @@ dist-ssr
 .yarn/install-state.gz
 .yarn/sdks
 
+#.vite
+.vite/
+
 # Editor directories and files
 .vscode/*
 !.vscode/settings.json
